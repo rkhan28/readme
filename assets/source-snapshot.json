@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-17",
+  "method": "Current source-file bytes across seven public app repositories; excludes dependencies, build output, backend folders and lockfiles. A working-tree snapshot, not GitHub Linguist and not a proficiency rating.",
+  "totals": {
+    "HTML": 5869,
+    "JavaScript": 66497,
+    "TypeScript": 566071,
+    "CSS": 35428,
+    "Python": 2797
+  },
+  "repositories": {
+    "FinanceTracker": {
+      "HTML": 610,
+      "JavaScript": 2197,
+      "TypeScript": 128669,
+      "CSS": 1490
+    },
+    "volleyanalsysis": {
+      "HTML": 569,
+      "JavaScript": 1811,
+      "TypeScript": 19474,
+      "Python": 2797,
+      "CSS": 11610
+    },
+    "netflixfilter": {
+      "JavaScript": 7628,
+      "CSS": 6090,
+      "HTML": 4380
+    },
+    "phishguard": {
+      "JavaScript": 278,
+      "TypeScript": 167493,
+      "CSS": 3278
+    },
+    "onboardy": {
+      "JavaScript": 185,
+      "TypeScript": 44623,
+      "CSS": 8509
+    },
+    "rahmat-portfolio": {
+      "HTML": 310,
+      "JavaScript": 54398,
+      "CSS": 216
+    },
+    "ttcpulse": {
+      "TypeScript": 205812,
+      "CSS": 4235
+    }
+  }
+}
